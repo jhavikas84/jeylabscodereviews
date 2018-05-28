@@ -1,0 +1,11 @@
+C:\My Work\JayLabs\Jaylabs.Core\Jaylabs.Shapes.Windows\bin\Debug\Jaylabs.Shapes.Windows.exe.config
+C:\My Work\JayLabs\Jaylabs.Core\Jaylabs.Shapes.Windows\bin\Debug\Jaylabs.Shapes.Windows.exe
+C:\My Work\JayLabs\Jaylabs.Core\Jaylabs.Shapes.Windows\bin\Debug\Jaylabs.Shapes.Windows.pdb
+C:\My Work\JayLabs\Jaylabs.Core\Jaylabs.Shapes.Windows\obj\Debug\Jaylabs.Shapes.Windows.csprojResolveAssemblyReference.cache
+C:\My Work\JayLabs\Jaylabs.Core\Jaylabs.Shapes.Windows\obj\Debug\Jaylabs.Shapes.Windows.Forms.Main.resources
+C:\My Work\JayLabs\Jaylabs.Core\Jaylabs.Shapes.Windows\obj\Debug\Jaylabs.Shapes.Windows.Properties.Resources.resources
+C:\My Work\JayLabs\Jaylabs.Core\Jaylabs.Shapes.Windows\obj\Debug\Jaylabs.Shapes.Windows.csproj.GenerateResource.cache
+C:\My Work\JayLabs\Jaylabs.Core\Jaylabs.Shapes.Windows\obj\Debug\Jaylabs.Shapes.Windows.csproj.CoreCompileInputs.cache
+C:\My Work\JayLabs\Jaylabs.Core\Jaylabs.Shapes.Windows\obj\Debug\Jaylabs.Shapes.Windows.exe
+C:\My Work\JayLabs\Jaylabs.Core\Jaylabs.Shapes.Windows\obj\Debug\Jaylabs.Shapes.Windows.pdb
+C:\My Work\JayLabs\Jaylabs.Core\Jaylabs.Shapes.Windows\obj\Debug\Jaylabs.Shapes.Windows.Forms.ShapeForm.resources
